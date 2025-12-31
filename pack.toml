@@ -1,0 +1,13 @@
+name = "the whole pastel"
+author = "KatTheFox"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "07acf3a59032513b6a97facd27c45f24922c99fd1424ee973118e9a2ae6ce841"
+
+[versions]
+forge = "14.23.5.2859"
+minecraft = "1.12.2"
