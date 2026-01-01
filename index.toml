@@ -601,6 +601,10 @@ file = "config/spartanweaponry.cfg"
 hash = "351b8a412b51182596dc209f916624f679e68ee57e7822ef4fa79916ffdbea9a"
 
 [[files]]
+file = "config/spartanweaponryarcanaex.cfg"
+hash = "4f94f4284b3ab2583f042ab09c12f9c64116b354538054f7932d45a0ecf9f76c"
+
+[[files]]
 file = "config/splash.properties"
 hash = "ab41756b838542db3b166e96b9638f7f6332cde4af667d3ea03b6eb79492193d"
 
@@ -651,6 +655,10 @@ hash = "d1ed860463a05464d0d0a38200f66971caf81ce0225c88e700ec35a1f331c7a7"
 [[files]]
 file = "config/thaumicjei_itemstack_aspects.json"
 hash = "dfa377de3408d1356055781f0bfebf11732790bb77212b07c08ee7c15233f739"
+
+[[files]]
+file = "config/tombstone.cfg"
+hash = "d05867784b80ee93c566fc2d788a8903cba403d464d0642560710a5207da1992"
 
 [[files]]
 file = "config/vintagefix.properties"
