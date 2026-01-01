@@ -657,6 +657,10 @@ file = "config/thaumicjei_itemstack_aspects.json"
 hash = "dfa377de3408d1356055781f0bfebf11732790bb77212b07c08ee7c15233f739"
 
 [[files]]
+file = "config/thaumictinkerer.cfg"
+hash = "c527874c4eb28ce6974a3f9b15e0261b2c6643366450ea011b17efecb2c8e603"
+
+[[files]]
 file = "config/tombstone.cfg"
 hash = "d05867784b80ee93c566fc2d788a8903cba403d464d0642560710a5207da1992"
 
@@ -1187,6 +1191,11 @@ metafile = true
 [[files]]
 file = "mods/thaumic-jei.pw.toml"
 hash = "3dcef794ba03565241c47808178e96d5d8db82d4a9659d2a340fd3966ac107a1"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-tinkerer.pw.toml"
+hash = "507c09a75c132f23d98702e2ff26f16bff2f4a550d26a448628a43b2a96e0540"
 metafile = true
 
 [[files]]
