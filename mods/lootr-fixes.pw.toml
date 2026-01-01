@@ -1,0 +1,13 @@
+name = "Lootr Fixes"
+filename = "Lootr Fixes-1.12.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb41b7ac3e9b9d02d0f7d4cd6ea61b992d4b4fc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6758285
+project-id = 1305094

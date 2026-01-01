@@ -6,7 +6,7 @@ hash = "fe3cb17145d3e83fdd1c92705464758d11be0fad583f7f905bdf7277b8e136ab"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "d4f558a664c0dd82c92cce847a15b7e3d8187edb95f527b9aa408a56d8e8830c"
+hash = "2daa74a4c0be4c1e6a307515fd3597ebaa4b9a23fdfb2470a2ed23c868c96fe6"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -18,7 +18,7 @@ hash = "21c3034ea51c17b5e53b0ba1ac75c2052f5bd20e8be1de7c8516a5fb5a56fdbd"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "0d8865a42ccedd20c90d8bc6f4cc9da02f66529a50c0ba371bbca3c2b83c23d9"
+hash = "533ad54961dc338b2b158f51779d64bc4265c3fd5c31dd4f7887af96852a3c6d"
 
 [[files]]
 file = "config/Building Gadgets.cfg"
@@ -98,7 +98,7 @@ hash = "7be4568d881c9932c7e49cc6e009ce5bcddf7a50ba194f0c7cc5381a1f5abb03"
 
 [[files]]
 file = "config/astralsorcery/amulet_enchantments.cfg"
-hash = "71453e356937f06b46073bd539f5fcb89a2125fc308f13a8baabefb98b5f27a1"
+hash = "dbd2647ad9970b197fd5b0e1c9f35929d9c06669bc6fdefeedb7db4ca1805ba0"
 
 [[files]]
 file = "config/astralsorcery/fluid_rarities.cfg"
@@ -179,6 +179,10 @@ hash = "cd362380ceff6360c6fd1312599b277942674106fb430866d3efc834556a7d1b"
 [[files]]
 file = "config/cosmeticarmorreworked.cfg"
 hash = "c3e31f09b7348271ab22ae4d2c7cffccb6027cc0bdbb4e93df746ebbc841e1f5"
+
+[[files]]
+file = "config/cpm.json"
+hash = "8f3181aecb018adc8f9d7d1185815bd326145b1cf4b9cdeea1cfd143d324c70e"
 
 [[files]]
 file = "config/craftingtweaks.cfg"
@@ -553,6 +557,10 @@ file = "config/placebo.cfg"
 hash = "77919b9509541ecf9882c91cd6b73b8e2c31b8b2f7157275c0ad6b8e25fe769b"
 
 [[files]]
+file = "config/quark.cfg"
+hash = "35474d62cf8375f765ca9a49906d289a98dd435e60d494bf54a33528d0ffa3ba"
+
+[[files]]
 file = "config/roots/crops.cfg"
 hash = "ef8459296461fd216ad2991718b58e254def870e4c92995d30f0660756e08fe5"
 
@@ -594,7 +602,7 @@ hash = "862b7c3e81efd5d5d76bfb5b310cd8787e5152c7b697137a27db18564a5018b9"
 
 [[files]]
 file = "config/splash.properties"
-hash = "3eefec522bdb0612c3296bd9f9f1c9e79b3db863630741c994b6c0c07bd9408f"
+hash = "ab41756b838542db3b166e96b9638f7f6332cde4af667d3ea03b6eb79492193d"
 
 [[files]]
 file = "config/storagedrawers.cfg"
@@ -621,6 +629,10 @@ file = "config/thaumcraft_world.cfg"
 hash = "ff9b0bdae29d41472ed55513617c3d78ba3940ec847bbc593695154e558d8a09"
 
 [[files]]
+file = "config/thaumcraftfix.cfg"
+hash = "865140b56437159f61d29dce4e2706e853a91526e9a9ac59f697582ee84d4b6e"
+
+[[files]]
 file = "config/thaumicaugmentation.cfg"
 hash = "7b1a8f3c6957d2440ffe1c051600609d202b1df4a7a6728b40aa7ccab1fe061f"
 
@@ -633,12 +645,40 @@ file = "config/thaumicenergistics.properties"
 hash = "585316b3ac11385f74dd1178e110ab77ef16b679282a92aca9063496ea4aac0f"
 
 [[files]]
+file = "config/thaumicjei.cfg"
+hash = "d1ed860463a05464d0d0a38200f66971caf81ce0225c88e700ec35a1f331c7a7"
+
+[[files]]
+file = "config/thaumicjei_itemstack_aspects.json"
+hash = "dfa377de3408d1356055781f0bfebf11732790bb77212b07c08ee7c15233f739"
+
+[[files]]
 file = "config/tombmanygraves.cfg"
 hash = "d3b736bc6a50aa18876994ca8af53d2e0d4ce805d1472de2f077c37d131d701d"
 
 [[files]]
 file = "config/vintagefix.properties"
 hash = "ceae385321eb669f51f7f18ae8363375d9c105853162d08f381b30df8e26fc32"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "e4c293ca24c04164ad5449db77e55a06a820a9f1cd294f6a9091eccb5b20b790"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "9a721c9d735bd5cc08457df5f91ca5bf5da29151c2bc2afead1078a8702c59b3"
 
 [[files]]
 file = "config/waila/theme/dark.json"
@@ -762,7 +802,7 @@ hash = "ab95ad81ee6ac9155368e93c0acb947b66aaef270c779e8cf6730373246c189e"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -892,6 +932,11 @@ hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "d9c87d53ebd46c32d9783156463507abe8239599eba845181e0cffd86d2bb1c3"
+metafile = true
+
+[[files]]
 file = "mods/embers-extended-life.pw.toml"
 hash = "e789d5482c0dbac9a21153fa72e90b71e20de2e090d878f8417d8254c3a0949c"
 metafile = true
@@ -959,6 +1004,11 @@ metafile = true
 [[files]]
 file = "mods/lolasm.pw.toml"
 hash = "dfa9635d3ca751b625ccc004a3c78e915954997f741576d58db3c5493286e764"
+metafile = true
+
+[[files]]
+file = "mods/lootr-fixes.pw.toml"
+hash = "b85228675f1dd38607565dc0a684bdd289d1f60a300a695db28d07993be6fd1c"
 metafile = true
 
 [[files]]
@@ -1031,11 +1081,6 @@ hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
 metafile = true
 
 [[files]]
-file = "mods/oldresearch.pw.toml"
-hash = "a2b019ae770cca2f07ae2ed8af4416bc22ffd15a3322d9ac187c70a1f75a1ff3"
-metafile = true
-
-[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "3431051cce65c011bd7cd75412ad676ada9353851d7383199276faf34b5f3d6f"
 metafile = true
@@ -1053,6 +1098,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
 
 [[files]]
@@ -1091,8 +1141,18 @@ hash = "fb169d97b00248f31e47862759105df2a851aff28391fc344fc26c5eabfde949"
 metafile = true
 
 [[files]]
+file = "mods/thaumcraft-inventory-scanning.pw.toml"
+hash = "2a4f25616f9e5c2f1b84c833c392cc3b6f4fd4797ce30ca3cf8fbbb934c1bdbc"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "642fb95aa39530f0b662148d8f5357ea7cfc48312216eced5251d7337f80c9cd"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraftfix.pw.toml"
+hash = "cc016aadce2d17e3aa6f7f6290a4f844751753bee76fcf49711bc35922aa5a3a"
 metafile = true
 
 [[files]]
@@ -1103,6 +1163,11 @@ metafile = true
 [[files]]
 file = "mods/thaumic-energistics-extended-life.pw.toml"
 hash = "0d66fad6c64c7def75b402e0a329749ef508411b1c0808729a3dde6c87e91f22"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-jei.pw.toml"
+hash = "3dcef794ba03565241c47808178e96d5d8db82d4a9659d2a340fd3966ac107a1"
 metafile = true
 
 [[files]]
