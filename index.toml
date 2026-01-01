@@ -598,7 +598,7 @@ hash = "9a7fc173c3ea0d96d49e5bad10b459b6ea5e52d377995770b2d151d96f8afd18"
 
 [[files]]
 file = "config/spartanweaponry.cfg"
-hash = "862b7c3e81efd5d5d76bfb5b310cd8787e5152c7b697137a27db18564a5018b9"
+hash = "351b8a412b51182596dc209f916624f679e68ee57e7822ef4fa79916ffdbea9a"
 
 [[files]]
 file = "config/splash.properties"
@@ -651,10 +651,6 @@ hash = "d1ed860463a05464d0d0a38200f66971caf81ce0225c88e700ec35a1f331c7a7"
 [[files]]
 file = "config/thaumicjei_itemstack_aspects.json"
 hash = "dfa377de3408d1356055781f0bfebf11732790bb77212b07c08ee7c15233f739"
-
-[[files]]
-file = "config/tombmanygraves.cfg"
-hash = "d3b736bc6a50aa18876994ca8af53d2e0d4ce805d1472de2f077c37d131d701d"
 
 [[files]]
 file = "config/vintagefix.properties"
@@ -917,6 +913,11 @@ hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "c44f9dbdbe00cabe15be71c5fae2e170b1eb518310b575fa6356a4591d6dacf5"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
 metafile = true
@@ -1126,6 +1127,16 @@ hash = "3d06c23fc5c293cc191574ddb01727c6a852cd100b4a69267b1f98c6a877be62"
 metafile = true
 
 [[files]]
+file = "mods/spartan-weaponry-arcana-expanded.pw.toml"
+hash = "8e55c58397289e235a273fab2b72c7ed57f78e022b40e36776fe671ca6e2f1d5"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry-arcana-unofficial.pw.toml"
+hash = "eb0956b30f5c0e4b5210f1566c2d993cdb036a2e5a0ba686b9758b263cae1ea6"
+metafile = true
+
+[[files]]
 file = "mods/spartan-weaponry.pw.toml"
 hash = "8a0f793d75f97249d1cccfebed0187fe2ee7c35ed455f3f6c3645b1e4a4b7d79"
 metafile = true
@@ -1171,8 +1182,8 @@ hash = "3dcef794ba03565241c47808178e96d5d8db82d4a9659d2a340fd3966ac107a1"
 metafile = true
 
 [[files]]
-file = "mods/tomb-many-graves-2.pw.toml"
-hash = "4aadc797a9cef1e2d93d7c7ffa1d015379f93bd3e68f8aa66991cc45a089d207"
+file = "mods/unidict.pw.toml"
+hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
 metafile = true
 
 [[files]]
@@ -1183,6 +1194,11 @@ metafile = true
 [[files]]
 file = "mods/waila-harvestability.pw.toml"
 hash = "57dcdf70cea23a3a1d9f4f12594dc624fb3bb3e0c0fbb2aa4a2a1f817b345816"
+metafile = true
+
+[[files]]
+file = "mods/wanionlib.pw.toml"
+hash = "7eb42ae64d048660ef6f7c1f61ce32aebae59174f9fbfa45d74aea5afc28fb43"
 metafile = true
 
 [[files]]
@@ -1213,6 +1229,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d14cce6196db676a7ee3406ae9acdec35b2ab5443983c93ed5ab70e07857190c"
+metafile = true
+
+[[files]]
+file = "mods/yarcf.pw.toml"
+hash = "729d0fb37a03b6244aad48f06c0048c7f4bc569592bc0bde256908e06a52a737"
 metafile = true
 
 [[files]]

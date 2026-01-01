@@ -1,0 +1,13 @@
+name = "Spartan Weaponry Arcana (Unofficial)"
+filename = "SpartanWeaponryArcana-1.12.2-1.4.1-1.1a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "686309dc3b222bf099923b19b264576bfebcd0a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3836926
+project-id = 620760
