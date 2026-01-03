@@ -133,6 +133,18 @@ file = "config/bbm/AI_Improvements.cfg"
 hash = "f4384b38cfdc89bea4f12667e7b6ac4b336091be9d55c22b7d89ec45cae6d660"
 
 [[files]]
+file = "config/beneath/beneath.cfg"
+hash = "626bc0ed7a030ee4914b0afe5fe9a80d1529dff95a5610268e22c4eb74548676"
+
+[[files]]
+file = "config/beneath/blockdeco.json"
+hash = "64a5abba46e8ff337aebff855d007189476acc509f516a6ad5bb21842e5efa0b"
+
+[[files]]
+file = "config/beneath/oregen.json"
+hash = "9a3cdb66d398c8dbabd02e50497c2c3b717dd657f7e7ee55814c78bd46b85fb4"
+
+[[files]]
 file = "config/bloodmagic/bloodmagic.cfg"
 hash = "88171d803877075679574fc29207f7a3bbc3af3056fe505d202c95e59b6525e9"
 
@@ -1269,4 +1281,4 @@ hash = "332460e01ef81915cf6f893488b07ef4b01e2c2625abd02b4373e95dc2a83aa3"
 
 [[files]]
 file = "scripts/thaumtweaks.zs"
-hash = "6f2eb1dcd5540f6cf4908ac917772fe7c2b592ee65555d588ebb601513274abe"
+hash = "494bb2d9ab7a47bf8e6e45ee3c319a10539fac019b8a0792bf4be1f7eab6b3c8"
