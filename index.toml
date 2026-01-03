@@ -940,6 +940,11 @@ hash = "9f63b0e2e436f6aa75764fffff1e8cb233062240ad5b999a51a936da927e578b"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "f54a768fc42a0c608923ccad9775e4a76b6ba916027108d45b7fd39961cff6de"
+metafile = true
+
+[[files]]
 file = "mods/ctm.pw.toml"
 hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
@@ -1199,6 +1204,11 @@ hash = "507c09a75c132f23d98702e2ff26f16bff2f4a550d26a448628a43b2a96e0540"
 metafile = true
 
 [[files]]
+file = "mods/the-beneath.pw.toml"
+hash = "136c5d4d13816b788a48c7317be9f368245cf32acdf2f728875dcd30fb534c74"
+metafile = true
+
+[[files]]
 file = "mods/unidict.pw.toml"
 hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
 metafile = true
@@ -1256,3 +1266,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "332460e01ef81915cf6f893488b07ef4b01e2c2625abd02b4373e95dc2a83aa3"
+
+[[files]]
+file = "scripts/thaumtweaks.zs"
+hash = "6f2eb1dcd5540f6cf4908ac917772fe7c2b592ee65555d588ebb601513274abe"
