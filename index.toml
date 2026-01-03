@@ -842,11 +842,6 @@ hash = "21d6ef9d52551f2adb9aad7752b551312fe417a693a992aee1dd0fbd83cce3d0"
 metafile = true
 
 [[files]]
-file = "mods/ai-improvements.pw.toml"
-hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
-metafile = true
-
-[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
@@ -869,11 +864,6 @@ metafile = true
 [[files]]
 file = "mods/astral-sorcery.pw.toml"
 hash = "82fbfe7ad86f3ef8a0085f86e1b23fb3ddd845fd55a2eb495a593306dd1a281f"
-metafile = true
-
-[[files]]
-file = "mods/attributefix.pw.toml"
-hash = "a9eb05b4ceb68aa65ddcba69918c28265e7247d83a8bd76993cdc0a800f8c5da"
 metafile = true
 
 [[files]]
@@ -929,6 +919,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
+
+[[files]]
+file = "mods/configanytime.pw.toml"
+hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
 metafile = true
 
 [[files]]
@@ -997,11 +992,6 @@ hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
 metafile = true
 
 [[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "d856a3027bb9f9d54c0ea2e02e6150510eeebd240bbb240779cdf0c27607110b"
-metafile = true
-
-[[files]]
 file = "mods/guide-api.pw.toml"
 hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
 metafile = true
@@ -1024,11 +1014,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
-metafile = true
-
-[[files]]
-file = "mods/let-me-despawn.pw.toml"
-hash = "59ef126579f6c818d025771565c18c54fd21999dddad08c31637b3c456b580c7"
 metafile = true
 
 [[files]]
@@ -1223,6 +1208,11 @@ metafile = true
 [[files]]
 file = "mods/unidict.pw.toml"
 hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "bac5bb4b388e2e2102d0b2bc8fc103b524e41613b3a76a6e97fc8e91609f2257"
 metafile = true
 
 [[files]]
