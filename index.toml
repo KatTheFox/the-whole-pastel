@@ -69,6 +69,22 @@ file = "config/Guide-API/Guide-API.cfg"
 hash = "ec7c07b32b916677a7f23ca8478ecdc90913681c838a1b0e46d85adebe52ea30"
 
 [[files]]
+file = "config/Universal Tweaks - Bugfixes.cfg"
+hash = "0b9b125d684087bb0a46acf3b952913f392a8893ef4f4023885011c7241527ea"
+
+[[files]]
+file = "config/Universal Tweaks - General.cfg"
+hash = "6bde7fd15d8d1383a8d903a83c707d19436342f80adb08dfd1a89748092580e4"
+
+[[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "7dfd9369fcb741e9393c95739c83bd31e34689d69252c5d205d17b3c4884ec4c"
+
+[[files]]
+file = "config/Universal Tweaks - Tweaks.cfg"
+hash = "39a382e8b3f50ff7d74575ff1cbc9c8c618b87500763dc29cd84f4fb5bdcd24d"
+
+[[files]]
 file = "config/Waystones.cfg"
 hash = "153a79c7627912509d3a871a0ec5d3aae81824c6c0f6d0ad162965bd582cd3de"
 
