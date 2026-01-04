@@ -1286,5 +1286,9 @@ file = "options.txt"
 hash = "332460e01ef81915cf6f893488b07ef4b01e2c2625abd02b4373e95dc2a83aa3"
 
 [[files]]
+file = "scripts/astral.zs"
+hash = "9faf4acce7c5aa7d07cd10845704c7f3ff7a597d5ce34c8091358a7ac04172d9"
+
+[[files]]
 file = "scripts/thaumtweaks.zs"
 hash = "494bb2d9ab7a47bf8e6e45ee3c319a10539fac019b8a0792bf4be1f7eab6b3c8"
